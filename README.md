@@ -665,7 +665,7 @@ Exploratory Analysis
    ↓
 Business Insights
    ↓
-Recommendations.
+Recommendations
 ```
 # 16. Tools & Technologies
 
