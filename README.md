@@ -1,6 +1,6 @@
 # Remote Data Jobs — Hiring Market Analysis
 
-![Remote Data Jobs Dashboard](../Remote_data_jobs.png)
+![Remote Data Jobs Dashboard](Remote_data_jobs.png)
 ## Executive Summary
 
 The remote data-job market has become increasingly diverse, with opportunities ranging from traditional data analytics and business intelligence to data science, data engineering, cloud engineering, and machine learning.
@@ -129,7 +129,7 @@ The remainder of the analysis explores that question through skill demand, compe
 ---
 
 # 4. What Skills Are Employers Looking For?
-![Top Data Skills](../top_data_skills.png)
+![Top Data Skills](top_data_skills.png)
 
 When we look at the most frequently requested skills, the first pattern becomes difficult to miss.
 
@@ -209,7 +209,7 @@ Instead, professionals can build a strong foundation and then develop the techno
 
 # 5. Where Does Compensation Begin to Diverge?
 
-![Top Paying Remote Jobs](../top_paying_remote_jobs.png)
+![Top Paying Remote Jobs](top_paying_remote_jobs.png)
 
 Now we move from **skill demand** to **compensation**.
 
@@ -297,6 +297,8 @@ It reflects differences in:
 ---
 
 # 7. The Relationship Between Skills and Compensation
+
+![Top Paying Skills by Job Count](top_paying_skills_job_count.png)
 
 This is where the analysis becomes particularly useful.
 
