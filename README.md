@@ -665,4 +665,35 @@ Exploratory Analysis
    ↓
 Business Insights
    ↓
-Recommendations
+Recommendations.
+```
+# 16. Tools & Technologies
+
+- **SQL / PostgreSQL** — Data exploration, joins, aggregation, filtering, and analysis
+- **Power BI** — Interactive dashboard development and data visualization
+- **DAX** — KPI and analytical measure development
+- **Excel** — Data exploration and preparation
+- **Git / GitHub** — Version control and project documentation
+
+---
+
+# 17. Project Structure
+
+```text
+Remote-Data-Hiring-Market-Analysis/
+│
+├── README.md
+├── Remote_data_jobs.png
+├── top_data_skills.png
+├── top_paying_remote_jobs.png
+├── top_paying_skills_job_count.png
+│
+└── sql_analysis/
+    ├── 1_top_paying_jobs.sql
+    ├── 2_top_paying_job_skills.sql
+    ├── 3_top_demanded_skills.sql
+    ├── 4_top_paying_skills.sql
+    └── 5_optimal_skills.sql
+
+
+
